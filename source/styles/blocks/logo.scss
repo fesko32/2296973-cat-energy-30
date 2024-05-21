@@ -32,3 +32,13 @@
 .logo__text {
   display: block;
 }
+
+.main-header__logo {
+  .logo__img {
+    object-fit: cover;
+  }
+
+  .logo__text {
+    object-fit: cover;
+  }
+}
